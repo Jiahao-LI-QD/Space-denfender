@@ -1,0 +1,13 @@
+play(10,30,10,30,50,80,90)
+setup_next(5)
+toggle_debug_mode
+pass
+pass
+move(A,1)
+pass
+fire
+fire
+fire
+fire
+fire
+fire

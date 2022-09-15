@@ -1,0 +1,3 @@
+Type Error: specification of command executions is not type-correct
+play(10, 30, 1, 0, 1, 1, 1) does not conform to declaration play(row: MAX_ROW = 5 .. 10 ; column: MAX_COLUMN = 10 .. 30 ; g_threshold: THRESHOLD = 1 .. 101 ; f_threshold: THRESHOLD = 1 .. 101 ; c_threshold: THRESHOLD = 1 .. 101 ; i_threshold: THRESHOLD = 1 .. 101 ; p_threshold: THRESHOLD = 1 .. 101)
+play(10, 30, 0, 0, 1, 50, 1) does not conform to declaration play(row: MAX_ROW = 5 .. 10 ; column: MAX_COLUMN = 10 .. 30 ; g_threshold: THRESHOLD = 1 .. 101 ; f_threshold: THRESHOLD = 1 .. 101 ; c_threshold: THRESHOLD = 1 .. 101 ; i_threshold: THRESHOLD = 1 .. 101 ; p_threshold: THRESHOLD = 1 .. 101)
