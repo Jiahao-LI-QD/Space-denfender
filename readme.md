@@ -24,15 +24,25 @@ scoring works).
 Below are a list of symbols that may appear on the board.
 –- ?: This symbol only shows up in normal mode. It represents the fog of war meaning from the perspective of the
 Starfighter, the location is too far away for the Starfighter to see what entity is in that location.
+
 –- : This symbol means the location is not occupied by any entity.
+
 –- G : This symbol means the location is occupied by a Grunt.
+
 -– F : This symbol means the location is occupied by a Fighter.
+
 -– C : This symbol means the location is occupied by a Carrier.
+
 –- I : This symbol means the location is occupied by a Interceptor.
+
 -– P : This symbol means the location is occupied by a Pylon.
+
 –- < : This symbol means the location is occupied by an enemy projectile (fired by some kinds of enemies).
+
 -– S : This symbol means the location is occupied by the Starfighter (which fires friendly projectiles).
+
 –- * : This symbol means the location is occupied by a friendly projectile.
+
 –- X : This symbol means the location is where the Starfighter was destroyed. This symbol is only present when
 the game is over due to destruction of the Starfighter.
 
