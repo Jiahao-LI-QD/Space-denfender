@@ -12,12 +12,11 @@ they see the Starfighter or not. Your goal is to update the simulation made in t
 new technologies and information. Unfortunately, time travelling is not one of the special abilities developed for the
 Starfighter hence there is no need to keep the undo/redo from the previous simulation.
 
-# Vocabulary <br>
-
-- Orbment: Can be either a singular orb or a container (focus). Enemies drop orbments when they are destroyed,
+# Vocabulary 
+-- Orbment: Can be either a singular orb or a container (focus). Enemies drop orbments when they are destroyed,
 and orbment has a different value (score).
 
-– Focus: A container for orbments. Starfighter has one focus with an unlimited capacity. On the other hand,
+–- Focus: A container for orbments. Starfighter has one focus with an unlimited capacity. On the other hand,
 the focus an enemy drops has a limited capacity, and its score is amplified when filled (see Section 6.15 for how
 scoring works).
 
